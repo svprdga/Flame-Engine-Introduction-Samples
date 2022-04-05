@@ -1,16 +1,7 @@
-# flame_intro
+# Flame Engine, the Game Engine built on top of Flutter
 
-A new Flutter project.
+This is the sample project for a video and article introducing [Flame Engine](https://flame-engine.org/).
 
-## Getting Started
+You can find the text version of the tutorial [here](https://davidserrano.io/flame-engine-the-game-engine-built-on-top-of-flutter).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can find the video version of the tutorial on [Youtube](https://youtu.be/OJsyTv4ZPs8) and [Odysee](https://odysee.com/@svprdga:d/flame-engine-the-game-engine-built-on-top-of-flutter).
